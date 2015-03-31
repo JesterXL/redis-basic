@@ -1,5 +1,7 @@
 # redis-basic
 
+Note: These instructions assume you have Nodejs installed.
+
 **Step 1**: [Download](http://redis.io/download) Redis 
 
 
