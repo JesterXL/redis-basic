@@ -17,6 +17,12 @@
 
 Open a new terminal window, `cd` to the code directory of this repo and run:
 
+`npm install`
+
+**Step 4**:
+
+Once completed, then run:
+
 `node example.js'
 
 You should see output in the console of Redis commands being run.
